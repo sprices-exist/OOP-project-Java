@@ -1,6 +1,7 @@
 package com.mygdx.game;
 
 import com.badlogic.gdx.Game;
+import com.badlogic.gdx.Gdx;
 
 import java.util.Random;
 
@@ -13,6 +14,7 @@ public class MyGdxGame extends Game {
 	@Override
 	public void create() {
 		gameScreen = new GameScreen();
+		Gdx.graphics.setTitle("Starship Invasion");
 		setScreen(gameScreen);
 	}
 

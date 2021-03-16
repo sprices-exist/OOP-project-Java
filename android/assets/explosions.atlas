@@ -1,0 +1,167 @@
+
+explosions.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ship21
+  rotate: false
+  xy: 392, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship210
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship211
+  rotate: false
+  xy: 262, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship212
+  rotate: false
+  xy: 776, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship22
+  rotate: false
+  xy: 1034, 516
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship23
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship24
+  rotate: false
+  xy: 1294, 776
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship25
+  rotate: false
+  xy: 1164, 776
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship26
+  rotate: false
+  xy: 1034, 776
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship27
+  rotate: false
+  xy: 1164, 646
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship28
+  rotate: false
+  xy: 1034, 646
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship29
+  rotate: false
+  xy: 1034, 646
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ship31
+  rotate: false
+  xy: 260, 648
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship310
+  rotate: false
+  xy: 776, 390
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship311
+  rotate: false
+  xy: 260, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship32
+  rotate: false
+  xy: 776, 648
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship33
+  rotate: false
+  xy: 260, 390
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship34
+  rotate: false
+  xy: 2, 648
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship35
+  rotate: false
+  xy: 518, 390
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship36
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship37
+  rotate: false
+  xy: 518, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship38
+  rotate: false
+  xy: 518, 648
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ship39
+  rotate: false
+  xy: 2, 390
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
